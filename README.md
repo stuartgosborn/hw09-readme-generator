@@ -1,16 +1,15 @@
 
-  # Professional Readme Generator  
+  # Professional Readme.md Generator  
        
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>  
   [Link to License: MIT](https://opensource.org/licenses/MIT)
 
-  ## Link to Demostration Video
-
-  https://app.screencastify.com/v3/watch/5L4Q7UqNUCXi7TYmb6hj
-
+  ## Link to Demonstration Video
+  https://app.screencastify.com/v3/watch/1FefhOeLYeBW5vZMqiWt
+  
   ## Table of Contents
   [Description](#description)  
-  [Installation](#installation)
+  [Installation](#installation)  
   [Usage](#usage)  
   [License](#license)  
   [Contributors](#contributors)
@@ -19,15 +18,15 @@
 
   ## Description 
   <a name='description'></a> 
-  A professional Readme.md generator  
+  A Professional readme generator.  
 
   ## Installation
   <a name='installation'></a>   
-  Install using the CLI "node index.js"  
+  Run from the CLI using "node index.js"  
 
   ## Usage
   <a name='usage'></a>   
-  undefined  
+  Use to create a professional readme file automatically with various sections.  
 
   ## License  
   <a name='license'></a> 
@@ -49,7 +48,7 @@
 
   ## Test  
   <a name='test'></a> 
-  Usability  
+  Usability,Interface  
 
   ## Questions  
   <a name='questions'></a> 

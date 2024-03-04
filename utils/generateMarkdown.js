@@ -107,10 +107,10 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   [Description](#description)  
-  [Installation](#installation)
+  [Installation](#installation)  
   [Usage](#usage)  
   [License](#license)  
-  [Contributors](#contributors)
+  [Contributors](#contributors)  
   [Test](#test)  
   [Questions](#questions)  
 
@@ -124,7 +124,7 @@ function generateMarkdown(data) {
 
   ## Usage
   <a name='usage'></a>   
-  ${data.usage}  
+  ${data.instructions}  
 
   ## License  
   <a name='license'></a> 
