@@ -134,13 +134,14 @@ function generateMarkdown(data) {
 
   ## Contributors  
   <a name='contributors'></a> 
-  -${data.contributors}  
+  - ${data.contributors}  
+  
   [![GitHub](https://img.shields.io/badge/GitHub-My_Profile-pink?style=for-the-badge&logo=github)](https://github.com/${data.github})
     [![Linkedin](https://img.shields.io/badge/LinkedIn-My_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/${data.github}?trk=profile-badge)
 
   ## Test  
   <a name='test'></a> 
-  ${data.test}  
+  ${data.test ? data.test : "No test instructions provided."}  
 
   ## Questions  
   <a name='questions'></a> 

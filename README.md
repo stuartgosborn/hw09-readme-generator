@@ -15,15 +15,15 @@
 
   ## Description 
   <a name='description'></a> 
-  A portfolio of web development projects I, Stuart Osborn, completed.  
+  A portfolio of featured web development projects by Stuart Osborn.  
 
   ## Installation
   <a name='installation'></a>   
-  From the CLI do: 'npm run dev'  
+  npm run dev  
 
   ## Usage
   <a name='usage'></a>   
-  For use by potential employers and collaboration partners (serious inquireries only.  
+  For use by potential employers and collaboration partners (serious inquireries only).  
 
   ## License  
   <a name='license'></a> 
@@ -41,16 +41,18 @@
 
   ## Contributors  
   <a name='contributors'></a> 
-  Stuart Osborn  
+  -Stuart Osborn  
+  [![GitHub](https://img.shields.io/badge/GitHub-My_Profile-pink?style=for-the-badge&logo=github)](https://github.com/stuartgosborn)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-My_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stuartgosborn?trk=profile-badge)
 
   ## Test  
   <a name='test'></a> 
-  Functional,Performance,Usability,Interface  
+    
 
   ## Questions  
   <a name='questions'></a> 
   For questions regarding this applicaiton please reachout to Stuart Osborn using one of the following methods:  
-  GitHub: [https://github.com/stuartgosborn](https://github.com/stuartgosborn)  
   Email: stuartgosborn22@gmail.com  
-
+  GitHub: [https://github.com/stuartgosborn](https://github.com/stuartgosborn)    
+  LinkedIn: [https://www.linkedin.com/in/stuartgosborn?trk=profile-badge](https://www.linkedin.com/in/stuartgosborn?trk=profile-badge)
   
