@@ -134,7 +134,9 @@ function generateMarkdown(data) {
 
   ## Contributors  
   <a name='contributors'></a> 
-  ${data.contributors}  
+  -${data.contributors}  
+  [![GitHub](https://img.shields.io/badge/GitHub-My_Profile-pink?style=for-the-badge&logo=github)](https://github.com/${data.github})
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-My_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/${data.github}?trk=profile-badge)
 
   ## Test  
   <a name='test'></a> 
@@ -143,9 +145,9 @@ function generateMarkdown(data) {
   ## Questions  
   <a name='questions'></a> 
   For questions regarding this applicaiton please reachout to ${data.contributors} using one of the following methods:  
-  GitHub: [https://github.com/${data.github}](https://github.com/${data.github})  
   Email: ${data.email}  
-
+  GitHub: [https://github.com/${data.github}](https://github.com/${data.github})    
+  LinkedIn: [https://www.linkedin.com/in/${data.github}?trk=profile-badge](https://www.linkedin.com/in/${data.github}?trk=profile-badge)
   `;
 }
 

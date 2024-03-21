@@ -1,32 +1,29 @@
 
-  # Professional Readme.md Generator  
+  # Stuart G. Osborn Web Dev Portfolio  
        
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>  
   [Link to License: MIT](https://opensource.org/licenses/MIT)
 
-  ## Link to Demonstration Video
-  https://app.screencastify.com/v3/watch/1FefhOeLYeBW5vZMqiWt
-  
   ## Table of Contents
   [Description](#description)  
   [Installation](#installation)  
   [Usage](#usage)  
   [License](#license)  
-  [Contributors](#contributors)
+  [Contributors](#contributors)  
   [Test](#test)  
   [Questions](#questions)  
 
   ## Description 
   <a name='description'></a> 
-  A Professional readme generator.  
+  A portfolio of web development projects I, Stuart Osborn, completed.  
 
   ## Installation
   <a name='installation'></a>   
-  Run from the CLI using "node index.js"  
+  From the CLI do: 'npm run dev'  
 
   ## Usage
   <a name='usage'></a>   
-  Use to create a professional readme file automatically with various sections.  
+  For use by potential employers and collaboration partners (serious inquireries only.  
 
   ## License  
   <a name='license'></a> 
@@ -48,7 +45,7 @@
 
   ## Test  
   <a name='test'></a> 
-  Usability,Interface  
+  Functional,Performance,Usability,Interface  
 
   ## Questions  
   <a name='questions'></a> 
